@@ -1,0 +1,40 @@
+/* Basic styling */
+.container {
+    text-align: center;
+  }
+  
+  .card {
+    display: inline-block;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    vertical-align: top;
+    width: 100%; /* Default for small screens */
+    box-sizing: border-box;
+  }
+
+  img{width: 100px;}
+  
+  /* Media Queries */
+  
+  /* Desktop */
+  @media (min-width: 992px) {
+    .card {
+      width: 30%; /* 3-column layout */
+    }
+  }
+  
+  /* Tablet */
+  @media (min-width: 600px) and (max-width: 991px) {
+    .card {
+      width: 45%; /* 2-column layout */
+    }
+  }
+  
+  /* Mobile */
+  @media (max-width: 599px) {
+    .card {
+      width: 100%; /* 1-column layout */
+    }
+  }
+  

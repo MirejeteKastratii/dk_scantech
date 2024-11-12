@@ -1,0 +1,35 @@
+div {
+    border: 1px solid black;
+    margin: 20px;
+    height: 300px;
+}
+.menu{
+    height: 70px;
+    text-align: center;
+}
+a{
+    margin: 20px;
+    text-decoration: none;
+}
+/* div:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+
+} */
+ p:hover{
+    background-color: pink;
+ }
+ p::selection{
+    background-color: orange;
+ }
+
+ a{
+color: brown;
+ }
+ a:active{
+    color: pink;
+}
+a:visited{
+    text-decoration: underline wavy;
+}

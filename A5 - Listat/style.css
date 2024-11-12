@@ -1,0 +1,11 @@
+ol{
+    list-style-type: georgian;
+}
+ul{
+    list-style-type: none;
+    background-color: aqua;
+}
+.titulli{
+font-weight: bold;
+color: green    ;
+}

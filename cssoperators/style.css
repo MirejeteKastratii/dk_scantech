@@ -1,0 +1,26 @@
+/* html{
+    font-size: 15px;
+}
+div{
+    width: 10rem;
+    height: 5rem;
+}
+p{
+    font-size: 40px;
+    width: 10em;
+    height:10em; 
+    background-color: pink;
+} */
+/* * - krejta elementet */
+/* .card * { krejta elementet mrenda kartes */
+    /* color: blue;
+} */
+ div * {
+    color: blue;
+ }
+ p.card{
+    background-color: aqua;
+ }
+ .card{
+    background-color: pink;
+ }

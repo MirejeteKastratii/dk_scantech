@@ -1,0 +1,10 @@
+p{
+    background-color: red;
+    /* display: inline-block; */
+    width: fit-content;
+}
+a{
+    background-color: pink;
+    display: inline-block;
+    width: 50px;
+}

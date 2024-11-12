@@ -1,0 +1,16 @@
+div{
+width: 100px;
+height: 100px;
+}
+.blue{
+    background-color: blue;
+    position: static;
+    z-index: 4;
+}
+.pink{
+    background-color: pink;
+    position: sticky;
+    top: 50px !important;
+    left: 50px;
+    /* z-index: 3; */
+} 

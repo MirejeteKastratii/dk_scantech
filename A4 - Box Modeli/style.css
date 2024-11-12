@@ -1,0 +1,67 @@
+/* element grupues, by default kane display block */
+/* div {
+    width: 300px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    display: inline-block;
+    margin-right: 20px;
+} */
+img{
+    width: 50px;
+}
+.karta1{
+    background-color: red;
+    color: yellow;
+}
+.karta2{
+    background-color: blue;
+}
+.titulli{
+    background-color:white;
+    color: blue;
+}
+
+
+
+/* ketu fillon stili per ushtrime.html */
+
+div{
+width:300px;
+height:300px
+}
+
+.karta{
+    margin:5px;
+    background-color:pink;
+}
+
+/* #elIPare{
+    border: 3px solid black;
+}
+#elIDyte{
+    border: 3px solid red;
+} */
+
+#box1{
+    background-color: red;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: aqua;
+border: double 5px orange;
+border-bottom: 6px dashed  black;
+/* margin:30px; */
+/* margin-top: 40px;
+margin-bottom:10px ;
+margin-left: 40px; */
+/* margin: top right bottom left */
+margin: 40px 10px 40px 10px;
+/* padding: (top, bottom) (left right) */
+padding: 10px 40px;
+/*    top    (left right) bottom */
+margin: 100px 200px 20px;
+}
+
+
+
+

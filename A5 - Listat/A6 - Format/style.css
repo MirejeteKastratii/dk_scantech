@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(176, 255, 176, 0%);
+}
+
+input {
+    display: block;
+} 
+
+input[type="checkbox"] {
+    display: inline;
+}
+
+span {
+    font-weight: bold;
+}

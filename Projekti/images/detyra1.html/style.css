@@ -1,0 +1,53 @@
+table{
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+ }
+
+
+
+table ,td,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+ .box{
+    background-color: rgb(13, 13, 75);
+    color: orange;
+    font-size: small;
+ }
+
+
+ .box1{
+    background-color: rgb(55, 55, 104);
+    color: white;
+    
+ }
+ .box2{
+    background-color:rgb(13, 13, 75);
+    color: white;
+ }
+ .butoni1{
+    background-color: rgb(12, 12, 60);
+    color: greenyellow;
+    border: solid greenyellow;
+    border-radius: 7px;
+    height: 40px;
+    width: 100px;
+ }
+ .butoni2{
+   background-color:rgb(12, 12, 60);
+   color: rgb(255, 0, 0);
+   border: solid rgb(255, 0, 0);
+   border-radius: 7px;
+   height: 40px;
+   width: 100px;
+ }
+ 
+
+ td{
+    border: none;
+    width: 150px;
+ }
+ tr{
+    height: 70px;
+ }

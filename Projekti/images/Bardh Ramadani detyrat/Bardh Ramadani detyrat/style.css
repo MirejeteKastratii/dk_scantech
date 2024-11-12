@@ -1,0 +1,68 @@
+table ,td,tr,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    border-radius: 10px;
+    overflow: hidden;
+}
+.a{
+    background-color:rgb(12, 12, 60);
+    color: orange;
+    font-size: small;
+}
+.b{
+    background-color: rgb(3, 3, 142);
+    color: white;
+}
+.c{
+    background-color:rgb(12, 12, 60);
+    color: white;
+}
+.Butoni1{
+    background-color: rgb(3, 3, 142);
+    color: greenyellow;
+    border: solid greenyellow;
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
+}
+.Butoni2{
+    background-color:rgb(12, 12, 60); 
+    color: greenyellow;
+    border: solid greenyellow;
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
+}
+.Butoni3{
+    background-color: rgb(3, 3, 142);
+    color: greenyellow;
+    border: solid greenyellow;
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
+}
+.Butoni4{
+    background-color:rgb(12, 12, 60); 
+    color: rgb(255, 0, 0);
+    border: solid rgb(255, 0, 0);
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
+}
+.Butoni5{
+    background-color: rgb(3, 3, 142);
+    color: rgb(255, 0, 0);
+    border: solid rgb(255, 0, 0);
+    border-radius: 7px;
+    height: 35px;
+    width: 100px;
+}
+td{
+    border: none;
+    width: 200px;
+}
+tr{
+    height: 80px;
+}
